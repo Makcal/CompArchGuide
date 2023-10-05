@@ -1,0 +1,5 @@
+Drivers for Altera USB Balster
+Author: https://www.youtube.com/@ribeirompl
+
+Are taken from the video: 
+https://www.youtube.com/watch?v=qzTRw6xtZ3E&ab_channel=MarcoRibeiro
